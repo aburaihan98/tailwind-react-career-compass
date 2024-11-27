@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "https://i.ibb.co.com/tsYhWCS/Holistic-Approach.jpg",
+    "title": "Holistic Approach",
+    "description": "At Career Compass, we employ a holistic approach which combines career interest and career personality that are essential."
+  },
+  {
+    "id": 2,
+    "icon": "https://i.ibb.co.com/K2DPjdn/Personalized-Experience.png",
+    "title": "Personalized Experience",
+    "description": "At Career Compass, we provide flexible options to provide our clients with convenience as they embark on a meaningful career."
+  },
+  {
+    "id": 3,
+    "icon": "https://i.ibb.co.com/9Gv2L9s/Flexible-Options.jpg",
+    "title": "Flexible Options",
+    "description": "At Career Compass, we believe that one size does not fit all. We understand that each individual has a unique situation."
+  },
+  {
+    "id": 4,
+    "icon": "https://i.ibb.co.com/9hgNbNw/Complete-Program.png",
+    "title": "Complete Program",
+    "description": "At Career Compass, we have a one-stop shop offering the most comprehensive program for people starting their careers."
+  }
+]
